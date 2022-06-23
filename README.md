@@ -1,3 +1,13 @@
+# Token API
+
+We'll construct a local API to get a user token in this stage. We'll use Node.js to create a mock API that returns a use. \r token. After successfully retrieving the token, we'll use that API from our login page and render the component. By the end of this stage, we'll have a working login page as well as protected sites that can only be accessed after logging.
+
+We'll need a server that will operate as a backend and return the token. Using Node.js and the Express web framework, we can easily establish a server.
+
+### `node server.js`
+
+This will spin up a server at [Local 8080 Login](http://localhost:8080/login)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
