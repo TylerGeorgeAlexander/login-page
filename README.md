@@ -1,6 +1,6 @@
 # Now updated to fetch directly from Heroku
 
-## Repo: [Login Page Backend(https://github.com/TylerGeorgeAlexander/login-page-backend)
+## Repo: [Login Page Backend](https://github.com/TylerGeorgeAlexander/login-page-backend)
 
 # Token API
 
