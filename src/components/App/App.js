@@ -15,12 +15,16 @@ function App() {
 
   return (
     <div className="wrapper">
+<<<<<<< HEAD
       <h1>Application Page</h1>
       <p>
         This is the page displayed after your login information has been
         accepted and you have a token stored in either localStorage or
         sessionStorage.
       </p>
+=======
+      <h1>Application Test</h1>
+>>>>>>> a6d5da03260e150ab34a7cf54101ea1ad5852a57
       <BrowserRouter>
         <Switch>
           <Route path="/dashboard">
